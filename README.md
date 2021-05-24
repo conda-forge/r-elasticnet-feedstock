@@ -3,7 +3,7 @@ About r-elasticnet
 
 Home: http://www.stat.umn.edu/~hzou
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-elasticnet-feedstock/blob/master/LICENSE.txt)
 
