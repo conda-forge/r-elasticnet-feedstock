@@ -37,10 +37,11 @@ test:
 
 about:
   home: http://www.stat.umn.edu/~hzou
-  license: GPL (>= 2)
+  license: GPL-2.0-or-later
   summary: 'Provides functions for fitting the entire solution path of the Elastic-Net and also provides functions for estimating sparse Principal Components. The Lasso solution paths can be computed by the same function. First version: 2005-10.'
   license_family: GPL3
-  license_file: {{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2
+  license_file:
+    - {{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2
 
 extra:
   recipe-maintainers:
