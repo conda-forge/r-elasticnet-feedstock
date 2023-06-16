@@ -1,11 +1,11 @@
-About r-elasticnet
-==================
+About r-elasticnet-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-elasticnet-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.stat.umn.edu/~hzou
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-elasticnet-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides functions for fitting the entire solution path of the Elastic-Net and also provides functions for estimating sparse Principal Components. The Lasso solution paths can be computed by the same function. First version: 2005-10.
 
